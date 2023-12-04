@@ -1,2 +1,2 @@
 # AOU_TM105
-Java TM105 Arab Open University [AOU]
+Arab Open University [AOU] - Java TM105 
